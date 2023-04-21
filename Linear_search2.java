@@ -1,3 +1,4 @@
+// second program of linear search.
 import java.util.*;
 class Linear_search2
 {
