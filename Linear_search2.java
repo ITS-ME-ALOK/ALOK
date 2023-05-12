@@ -1,4 +1,5 @@
 // second program of linear search.
+//some change by ajit.
 import java.util.*;
 class Linear_search2
 {
